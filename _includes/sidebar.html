@@ -66,9 +66,13 @@
     {% for entry in site.data.contact %}
       {% capture url %}
         {%- if entry.type == 'github' -%}
-          https://github.com/{{ site.github.username }}
+          https://github.com/{{ entry.username | default: site.github.username }}
         {%- elsif entry.type == 'twitter' -%}
-          https://twitter.com/{{ site.twitter.username }}
+          https://twitter.com/{{ entry.username | default: site.twitter.username }}
+        {%- elsif entry.type == 'instagram' -%}
+          https://instagram.com/{{ entry.username | default: site.instagram.username }}
+        {%- elsif entry.type == 'facebook' -%}
+          https://facebook.com/{{ entry.username | default: site.facebook.username }}
         {%- elsif entry.type == 'email' -%}
           {% assign email = site.social.email | split: '@' %}
           javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
