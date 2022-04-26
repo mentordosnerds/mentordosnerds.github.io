@@ -6,12 +6,9 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+coisa:
+  name: Felipe Sayão Lobato Abreu
+  twitter: coisa
+  picture: 'https://avatars.githubusercontent.com/u/426835?v=4'
+  url: https://felipeabreu.com.br/
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
