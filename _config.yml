@@ -90,9 +90,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: 'mentordosnerds/mentordosnerds.github.io'
-    repo_id: 104465978
-    category: Comments
-    category_id: 37433344
+    repo_id: 'R_kgDOHPc_7Q'
+    category: 'Comments'
+    category_id: 'DIC_kwDOHPc_7c4COzC9'
     mapping: 'pathname'
     input_position: 'bottom'
     lang: 'en'
