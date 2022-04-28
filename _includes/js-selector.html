@@ -97,4 +97,9 @@
     {% include google-analytics.html %}
   {% endif %}
 
+  <!-- Cloudflare -->
+  {% if site.cloudflare_analytics.token != empty and site.cloudflare_analytics.token %}
+    {% include cloudflare-web-analytics.html %}
+  {% endif %}
+
 {% endif %}
