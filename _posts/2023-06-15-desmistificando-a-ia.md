@@ -1,7 +1,7 @@
 ---
 title: Desmistificando a Inteligência Artificial
 author: coisa
-date: 2023-06-15 18:56:00 +0800
+date: 2023-06-15 18:56:00 -0300
 categories: [Inteligência Artificial]
 tags: [inteligencia-artificial, iniciantes]
 pin: true
