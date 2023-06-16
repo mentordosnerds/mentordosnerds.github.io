@@ -15,6 +15,7 @@ pin: true
 A Inteligência Artificial está aqui e redefine a maneira como vivemos, trabalhamos e jogamos. Desde simples assistentes virtuais, como Siri e Alexa, até algoritmos complexos que automatizam tarefas rotineiras, a IA está se tornando uma parte inseparável do nosso cotidiano.
 
 > "A IA não é mais uma promessa futurista - é uma realidade do presente, moldando ativamente as nossas vidas diárias."
+{: .prompt-tip }
 
 ## A Democratização da IA
 
@@ -27,6 +28,7 @@ A democratização da IA permite que pessoas de todas as habilidades técnicas u
 Uma das aplicações mais interessantes da IA é o ChatGPT da OpenAI. Este modelo de linguagem treinado pode ajudar a agilizar o seu dia, automatizando tarefas como redigir e-mails, escrever relatórios, ou até mesmo criar conteúdo para blogs e redes sociais.
 
 > "Com o ChatGPT, você tem um assistente virtual capaz de lidar com uma variedade de tarefas escritas."
+{: .prompt-tip }
 
 ## IA para um Futuro Sustentável
 
@@ -37,3 +39,4 @@ A IA também desempenha um papel crucial na criação de um futuro sustentável.
 A IA revoluciona o nosso mundo diário de maneiras que nunca imaginamos. Com a democratização da IA, qualquer um pode agora aproveitar o poder dessa tecnologia para melhorar a sua vida cotidiana.
 
 > "A revolução da IA está apenas começando, e todos nós somos convidados a participar."
+{: .prompt-tip }
